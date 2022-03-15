@@ -6,7 +6,9 @@ The "AutoTKV_MouseMRI" package consists of the source code, annotations, and MR 
 
 References
 -----------
-Edwards ME, Periyanan S, Anaam D, Gregory AV, Kline TL, "Automated Total Kidney Volume Measurements in Pre-Clinical MR Imaging – Resourcing Imaging Data, Annotations, and Source Code." (under review)
+Edwards ME, Periyanan S, Anaam D, Gregory AV, Kline TL, "Automated Total Kidney Volume Measurements in Pre-Clinical MR Imaging – Resourcing Imaging Data, Annotations, and Source Code." 
+
+[Paper](https://kidneyinternational-online.org/action/showPdf?pii=S0085-2538%2820%2930957-1)
 
 
 Maintainers
