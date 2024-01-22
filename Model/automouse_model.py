@@ -4,7 +4,7 @@ from keras.layers import Input, Conv2D, MaxPooling2D, UpSampling2D, add
 from keras.layers import Dense, Dropout, Activation, Flatten, BatchNormalization
 from metrics import dice_coef, dice_coef_loss
 
-def automouseTKV_model():
+def automouseTKV_model(img_rows, img_cols):
     inputs = Input((1, img_rows, img_cols))
     
     conv1 = Conv2D(32, (7, 7), activation='relu', border_mode='same')(inputs)
